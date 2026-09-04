@@ -1,0 +1,202 @@
+{
+  "Azerbaijan": {
+    "artist": "Ell & Nikki",
+    "song": "Running Scared",
+    "points": 221,
+    "title": "Ell & Nikki - Running Scared (Azerbaijan) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=_0tlQUW5X0U",
+    "year": "2011"
+  },
+  "Italy": {
+    "artist": "Raphael Gualazzi",
+    "song": "Madness of Love",
+    "points": 189,
+    "title": "Raphael Gualazzi - Madness Of Love (Italy) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=vimdImSZYOI",
+    "year": "2011"
+  },
+  "Sweden": {
+    "artist": "Eric Saade",
+    "song": "Popular",
+    "points": 185,
+    "title": "Eric Saade - Popular (LIVE) | Sweden 🇸🇪 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=Zhn4DFHhM3U",
+    "year": "2011"
+  },
+  "Ukraine": {
+    "artist": "Mika Newton",
+    "song": "Angel",
+    "points": 159,
+    "title": "Mika Newton - Angel (LIVE) | Ukraine 🇺🇦 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=mx1wAj_oVdE",
+    "year": "2011"
+  },
+  "Denmark": {
+    "artist": "A Friend in London",
+    "song": "New Tomorrow",
+    "points": 134,
+    "title": "A Friend In London - New Tomorrow (LIVE) | Denmark 🇩🇰 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=9DcYb8kt4mc",
+    "year": "2011"
+  },
+  "Bosnia and Herzegovina": {
+    "artist": "Dino Merlin",
+    "song": "Love in Rewind",
+    "points": 125,
+    "title": "Dino Merlin - Love In Rewind (Bosnia & Herzegovina) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=1VCS-qa1RGs",
+    "year": "2011"
+  },
+  "Greece": {
+    "artist": "Loukas Yorkas feat. Stereo Mike",
+    "song": "Watch My Dance",
+    "points": 120,
+    "title": "Loucas Yiorkas feat. Stereo Mike - Watch My Dance (Greece) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=qVdMs2-dwGE",
+    "year": "2011"
+  },
+  "Ireland": {
+    "artist": "Jedward",
+    "song": "Lipstick",
+    "points": 119,
+    "title": "Jedward - Lipstick (LIVE) | Ireland 🇮🇪 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=rEyd-DVLq9M",
+    "year": "2011"
+  },
+  "Georgia": {
+    "artist": "Eldrine",
+    "song": "One More Day",
+    "points": 110,
+    "title": "Eldrine - One More Day (Georgia) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=s2EwiTBiEDU",
+    "year": "2011"
+  },
+  "Germany": {
+    "artist": "Lena",
+    "song": "Taken by a Stranger",
+    "points": 107,
+    "title": "Lena - Taken By A Stranger (LIVE) | Germany 🇩🇪 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=fHsLnk3whxg",
+    "year": "2011"
+  },
+  "United Kingdom": {
+    "artist": "Blue",
+    "song": "I Can",
+    "points": 100,
+    "title": "Blue - I Can (United Kingdom) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=9mUKrCGshog",
+    "year": "2011"
+  },
+  "Moldova": {
+    "artist": "Zdob și Zdub",
+    "song": "So Lucky",
+    "points": 97,
+    "title": "Zdob și Zdub - So Lucky (LIVE) | Moldova 🇲🇩 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=lyQ72wb3yr4",
+    "year": "2011"
+  },
+  "Slovenia": {
+    "artist": "Maja Keuc",
+    "song": "No One",
+    "points": 96,
+    "title": "Maja Keuc - No One (LIVE) | Slovenia 🇸🇮 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=5vqjb2OYnYs",
+    "year": "2011"
+  },
+  "Serbia": {
+    "artist": "Nina",
+    "song": "Čaroban",
+    "points": 85,
+    "title": "Nina - Čaroban (LIVE) | Serbia 🇷🇸 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=oHgXE90OSzM",
+    "year": "2011"
+  },
+  "France": {
+    "artist": "Amaury Vassili",
+    "song": "Sognu",
+    "points": 82,
+    "title": "Amaury Vassili - Sognu (LIVE) | France 🇫🇷 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=Sri0LomK0oM",
+    "year": "2011"
+  },
+  "Russia": {
+    "artist": "Alexey Vorobyov",
+    "song": "Get You",
+    "points": 77,
+    "title": "Alexej Vorobjov - Get You (Russia) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=71QoP6nc3tE",
+    "year": "2011"
+  },
+  "Romania": {
+    "artist": "Hotel FM",
+    "song": "Change",
+    "points": 77,
+    "title": "Hotel FM - Change (Romania) Live 2011 Eurovision Song Contest",
+    "link": "https://www.youtube.com/watch?v=k2Q-tkBXEzA",
+    "year": "2011"
+  },
+  "Austria": {
+    "artist": "Nadine Beiler",
+    "song": "The Secret Is Love",
+    "points": 64,
+    "title": "Nadine Beiler - The Secret Is Love (LIVE) | Austria 🇦🇹 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=AySl4viIzlo",
+    "year": "2011"
+  },
+  "Lithuania": {
+    "artist": "Evelina Sašenko",
+    "song": "C'est ma vie",
+    "points": 63,
+    "title": "Evelina Sašenko - C'est Ma Vie (LIVE) | Lithuania 🇱🇹 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=D4Tvc9S_1BU",
+    "year": "2011"
+  },
+  "Iceland": {
+    "artist": "Sjonni's Friends",
+    "song": "Coming Home",
+    "points": 61,
+    "title": "Sjonni's Friends - Coming Home (LIVE) | Iceland 🇮🇸 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=MYVjXG19eVA",
+    "year": "2011"
+  },
+  "Finland": {
+    "artist": "Paradise Oskar",
+    "song": "Da Da Dam",
+    "points": 57,
+    "title": "Paradise Oskar - Da Da Dam (LIVE) | Finland 🇫🇮 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=rQ98uBQxbBo",
+    "year": "2011"
+  },
+  "Hungary": {
+    "artist": "Kati Wolf",
+    "song": "What About My Dreams?",
+    "points": 53,
+    "title": "Kati Wolf - What About My Dreams? (LIVE) | Hungary 🇭🇺 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=kwH7Pw25kNk",
+    "year": "2011"
+  },
+  "Spain": {
+    "artist": "Lucía Pérez",
+    "song": "Que me quiten lo bailao",
+    "points": 50,
+    "title": "Lucia Pérez - Que Me Quiten Lo Bailao (LIVE) | Spain 🇪🇸 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=GSOEmM0h-aE",
+    "year": "2011"
+  },
+  "Estonia": {
+    "artist": "Getter Jaani",
+    "song": "Rockefeller Street",
+    "points": 44,
+    "title": "Getter Jaani - Rockefeller Street (LIVE) | Estonia 🇪🇪 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=vOIXQskfy6o",
+    "year": "2011"
+  },
+  "Switzerland": {
+    "artist": "Anna Rossinelli",
+    "song": "In Love for a While",
+    "points": 19,
+    "title": "Anna Rossinelli - In Love For A While (LIVE) | Switzerland 🇨🇭 | Grand Final | Eurovision 2011",
+    "link": "https://www.youtube.com/watch?v=M03Nx6gHd90",
+    "year": "2011"
+  }
+}
