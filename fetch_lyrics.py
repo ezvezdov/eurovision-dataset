@@ -82,15 +82,19 @@ def fetch_lyrics(song_title, artist_name):
     return None
 
 if __name__ == "__main__":
-    lst = ['2008', '2009', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2021', '2022', '2023', '2024', '2025']
+    with open("dataset_info.json", 'r', encoding='utf-8') as file:
+        dataset_info = json.load(file)
+
+    year_path_lst = []
+    for year, year_data in dataset_info.items():
+        year_path_lst.append((year, year_data["path"]))
 
     os.makedirs(os.path.join("raw", "lyrics"), exist_ok=True)
 
-    for year in lst:
+    for year, path in year_path_lst:
         print(f"Processing {year}")
-        filename = os.path.join("raw", f"{year}.json")
 
-        with open(filename, 'r', encoding='utf-8') as file:
+        with open(path, 'r', encoding='utf-8') as file:
             year_data = json.load(file)
 
         for country, entry in year_data.items():
